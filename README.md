@@ -1,4 +1,4 @@
-TP n°3 - MAT 41 02 | Télécom SudParis
+###  TP n°3 - MAT 41 02 | Télécom SudParis
 
 Estimation de la densité d'une variable aléatoire avec la méthodes des noyaux. 
 Donnnée extraites des campagnes océanographiques menées par l’Ifremer depuis 2004 sur
